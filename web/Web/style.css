@@ -1,0 +1,42 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 2 jun. 2022, 8:21:39 p. m.
+    Author     : Usuario
+*/
+
+
+*{
+    font-family: 'Poppins', sans-serif;
+}
+.caja{
+    background-color: black;
+    width: 50%;
+    padding-left: 2rem;
+    padding-bottom: 2rem;
+    border-radius: 2rem;
+}
+
+.carga{
+    color: white;
+    display: flex;
+    padding-top: 0.5rem;
+    width: 50%;
+}
+
+#nombre, #apellido,#dni, #fechaNacimiento, #direccion{
+    padding-left: 1rem;
+    width: 100%;
+}
+
+.titulo{
+    color: white;
+    padding-top: 1rem;
+}
+
+h5{
+    color: black;
+    text-decoration: #000000;
+}
